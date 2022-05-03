@@ -109,13 +109,17 @@ nav{
     display: inline-block;
     margin-left: 32px;
 }
+.two-four{
+    width: 365px;
+    height: 263px;
+    position: absolute;
+    background-color: #1abc9c;
+    border-radius: 10px;
+    display: none;
+}
 .two-three img{
     width: 100%;
     border-radius: 8px;
-}
-.two-three img:hover{
-    opacity: 0.4;
-    background-color: green;
 }
 .two-two{
     margin-top: 45px;
@@ -184,7 +188,7 @@ nav{
 #three i{
     font-size: 20px;
 }
-#three-one{
+.three-one{
     margin-bottom: 50px;
 }
 #four{
